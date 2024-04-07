@@ -1,0 +1,9 @@
+{
+    "name": "gui/projeto-php",
+    "autoload": {
+        "psr-4": {
+            "ProjetoPhp\\": "src/"
+        }
+    },
+    "require": {}
+}
